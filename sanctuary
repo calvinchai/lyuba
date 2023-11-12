@@ -1,8 +1,0 @@
-# file holding the 
-
-curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
-     -H "Authorization: Bearer 0H-OOF3lZo1gECJKpa3N0rMfgtrwTJenb5e9SF0N" \
-     -H "Content-Type:application/json"
-
-edit dns
-0H-OOF3lZo1gECJKpa3N0rMfgtrwTJenb5e9SF0N
