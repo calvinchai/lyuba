@@ -8,9 +8,7 @@ This is a 36-hr project created at HackUMass VI.
 ## Name
 Lyuba is the name of the best preserved Mammoth baby, from c. 41,800 years ago at the age of 30-35 days. 
 Mammoth is a close relative to a mastodon, and our project is a baby version of what it could grow up to be.
-
-## Decentralization (Web3)
-
+Mammoths are the closest cousins to Mastodon. 
 
 ## Motivation
 To begin, we believe individuals should be able to control their data and have full transparency with their data records. No private entities should be able to monopolize social networks.
@@ -23,8 +21,11 @@ After looking into Mastodon, a free and open-source decentralized social media r
 The somewhat recent update to Instagram that pushed suggested posts into user's personal feed, crowding up the user's feed which used to only be for one's followed list, and making it so that one's home feed will virtually never end, turning one's "checking on update from friend's lives" to a long scrolling session, and sometimes not even finding the posts from the people you follow and wanted to see. We believe users should be able to see what they actually wanted to see when they are checking their social media instead of being distracted by an endless pit of memes before even seeing the content one logged on to view. 
 
 ## How will Lyuba differ
- - to do -
-
+- Lyuba will be a completely individualized platform, whereas Mastodon is more of a network of many smaller centralized servers, we want Lyuba to be as decentralized as possible
+- Lyuba will allow users to curate their feed free of any private suggestion algorithms
+- Lyuba allows users to have full transparency with how their data is stored and used, and full control over what their data can/will be used for
+- Because servers are individualized, no private entity may restrict access to the data that is publicly accessible
+- In addition to content posted directly on Lyuba, the subscription feed (RSS-like) allows user to view contents from centralized platforms without switching
 
 ## Acknowledgement
 ### ELK
@@ -36,16 +37,10 @@ for demo and simulation, we are using Google cloud (virtual machine) to act as a
 ### .tech Domain
 convenient access via domain name
 
-### MongoDB
-data storage (for off-chain data)
-
 ### Auth0 
 user sign-in and general authentication
 
-## Mastodon
- - summarize how Mastodon work -
-
 ### What's Next
- - security
- - extension
- - token system
+ - **security**
+ - **extension**
+ - **token system**
