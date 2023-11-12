@@ -1,0 +1,12 @@
+[submodule "storj"]
+	path = storj
+	url = https://github.com/storj/storj
+[submodule "hedera-sdk-go"]
+	path = hedera-sdk-go
+	url = https://github.com/hashgraph/hedera-sdk-go
+[submodule "elk"]
+	path = elk
+	url = https://github.com/elk-zone/elk
+[submodule "mastodon"]
+	path = mastodon
+	url = https://github.com/mastodon/mastodon
