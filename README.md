@@ -1,9 +1,9 @@
 # Lyuba.tech
-Lyuba is the infantile-stage of a decenturalized social platform, integrating Web3 technology. Our goal is to create a platform that is free from centralized control, allowing users to curate their content based on personal interests. Moving away from algorithms that prioritize content for engagement metrics, Lyuba empowers users to see what genuinely interests them, fostering a truly user-centric and personalized experience. 
+Lyuba is the infantile-stage of a decenturalized microblog platform, integrating Web3 technology. Our goal is to create a platform that is free from centralized control, allowing users to curate their content based on personal interests. Moving away from algorithms that prioritize content for engagement metrics, Lyuba empowers users to see what genuinely interests them, fostering a truly user-centric and personalized experience. 
 
 The inspiration of this project are majority from Mastodon and RSS Feeds.
 
-This is a 36-hr project created at HackUMass VI.
+This is a 36-hr project created at HackUMass XI.
 
 ## Name
 Lyuba is the name of the best preserved Mammoth baby, from c. 41,800 years ago at the age of 30-35 days. 
@@ -26,6 +26,14 @@ The somewhat recent update to Instagram that pushed suggested posts into user's 
 - Lyuba allows users to have full transparency with how their data is stored and used, and full control over what their data can/will be used for
 - Because servers are individualized, no private entity may restrict access to the data that is publicly accessible
 - In addition to content posted directly on Lyuba, the subscription feed (RSS-like) allows user to view contents from centralized platforms without switching
+
+## How we achieve this
+Given that decentralization is the end goal, the engine powering the entire project lies in cryptography. Using distributed ledger technology, Lyuba can not only maintain user confidentiality and ensure data integrity, Lyuba can also incentivize users to join the network through its own cryptocurrency or NFT rewards. 
+
+### Distributed Ledger
+Distributed ledger technology is the heart of how Lyuba will maintain decentralization. A distributed ledger, as the name suggests, distributes a history of transactions across a network. The integrity of the ledger is maintained by spreading important information across multiple, independently hosted computers as opposed to relying on a master copy. The idea is that if someone were to convincingly tamper with the data, they'll need to have successfully infiltrated multiple independently ran systems in order to succeed, which is a nigh impossible task. 
+
+Lyuba utilizes similar technology to record posts, likes, follows, and other familiar concepts of a microblogging site. However, by relying on a p2p network instead of a centralized database, we can ensure that no one organization or one man is capable of shifting the entire platform.
 
 ## Acknowledgement
 ### ELK
