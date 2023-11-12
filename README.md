@@ -3,7 +3,7 @@ Lyuba is the infantile-stage of a decenturalized microblog platform, integrating
 
 The inspiration of this project are majority from Mastodon and RSS Feeds.
 
-This is a 36-hr project created at HackUMass VI.
+This is a 36-hr project created at HackUMass XI.
 
 ## Name
 Lyuba is the name of the best preserved Mammoth baby, from c. 41,800 years ago at the age of 30-35 days. 
